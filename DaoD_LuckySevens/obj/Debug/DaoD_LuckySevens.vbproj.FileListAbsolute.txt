@@ -1,0 +1,60 @@
+D:\DaoD_LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe.config
+D:\DaoD_LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe
+D:\DaoD_LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.xml
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbprojAssemblyReference.cache
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Form1.resources
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Resources.resources
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.GenerateResource.cache
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.CoreCompileInputs.cache
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.exe
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.xml
+D:\DaoD_LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe.config
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbprojAssemblyReference.cache
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Form1.resources
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Resources.resources
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.GenerateResource.cache
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.CoreCompileInputs.cache
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevens\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe.config
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbprojAssemblyReference.cache
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Form1.resources
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Resources.resources
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.GenerateResource.cache
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.CoreCompileInputs.cache
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevensV2\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe.config
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.pdb
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbprojAssemblyReference.cache
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Form1.resources
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Resources.resources
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.GenerateResource.cache
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.CoreCompileInputs.cache
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.exe
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.xml
+D:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.pdb
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe.config
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.exe
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.pdb
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\bin\Debug\DaoD_LuckySevens.xml
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.AssemblyReference.cache
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Form1.resources
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.Resources.resources
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.GenerateResource.cache
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.vbproj.CoreCompileInputs.cache
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.exe
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.xml
+E:\DaoD_PROC02 LuckySevensV4\DaoD_LuckySevens\obj\Debug\DaoD_LuckySevens.pdb
